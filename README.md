@@ -1,4 +1,5 @@
-# **聊天APP前瞻**
+# **聊天室ChatRoom前瞻**
+# 后端地址：https://github.com/QiangXian/chatapp-back-end
 
 <img src="C:\Users\lenovo\Desktop\wolf.JPG" alt="wolf" style="height:100px;display:inline" />
 
